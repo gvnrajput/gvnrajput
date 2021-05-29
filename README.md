@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Gaurav
+- 👋 Hi, I’m Tech
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me gvnrajput@gmail.com
+- 🌱 I’m currently learning Tech
+- 💞️ I’m looking to collaborate on Tech
+- 📫 How to reach me Tech
 
 <!---
 gvnrajput/gvnrajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
